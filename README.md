@@ -16,10 +16,8 @@ Hi there 👋 I am Sakshi Rajput, a passionate Frontend Developer.<br>🔭I'm lo
 ![](https://github-profile-trophy.vercel.app/?username=sakshi261203&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." — Bill Gates
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sakshi261203&limit=5&theme=dark&combine_all_yearly_contributions=true)
+"Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." 
+       — _**BILL GATES**__
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshi261203&icon=0&color=0)](https://visitcount.itsvg.in)
