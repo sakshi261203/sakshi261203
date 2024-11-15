@@ -17,7 +17,7 @@ Hi there 👋 I am Sakshi Rajput, a passionate Frontend Developer.<br>🔭I'm lo
 
 ### ✍️ Random Dev Quote
 "Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains." 
-       — _**BILL GATES**__
+       ~ _**BILL GATES**_
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshi261203&icon=0&color=0)](https://visitcount.itsvg.in)
